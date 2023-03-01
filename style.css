@@ -1,0 +1,156 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.maincontainer {}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 60px;
+    background-image: linear-gradient(120deg, #f35b04, white, green);
+    border-radius: 2px;
+    box-shadow: 2px 2px #f35b04;
+}
+
+.footer {
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 7vh;
+    background-image: linear-gradient(#14213d, #403d39);
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+
+.main {
+    background-image: url('/bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-image: linear-gradient(120deg,#f35b04,white, green); */
+    /* display: flex;
+    flex-direction: column; */
+    align-items: center;
+
+}
+
+.one {
+    margin-left: 230px;
+    background-color: rgb(226, 221, 221);
+    width: 800px;
+    height: 400px;
+    /* margin-top: 10px; */
+    border-radius: 10px;
+}
+
+.two {
+    margin-left: 230px;
+    background-color: rgb(226, 221, 221);
+    width: 800px;
+    height: 400px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.three {
+    margin-left: 230px;
+    background-color: rgb(226, 221, 221);
+    width: 800px;
+    height: 400px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.four {
+    margin-left: 230px;
+    background-color: rgb(226, 221, 221);
+    width: 800px;
+    height: 400px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.five {
+    margin-left: 230px;
+    background-color: rgb(226, 221, 221);
+    width: 800px;
+    height: 400px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.six {
+    margin-left: 230px;
+    background-color: rgb(226, 221, 221);
+    width: 800px;
+    height: 400px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.seven {
+    margin-left: 230px;
+    background-color: rgb(226, 221, 221);
+    width: 800px;
+    height: 400px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.eight {
+    margin-left: 230px;
+    background-color: rgb(226, 221, 221);
+    width: 800px;
+    height: 400px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.nine {
+    background-color: rgb(226, 221, 221);
+    width: 577px;
+    height: 116px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-left: 345px;
+}
+
+.image {
+    width: 450px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.inside-text p {
+    margin-left: 473px;
+    margin-top: -372px;
+
+}
+
+.inside-text h4 {
+    margin-left: 473px;
+    margin-top: -378px;
+}
+
+.audio {
+    background-color: red;
+}
+
+.audio-tag {
+    margin-left: 200px;
+}
+
+.mp3 {
+    margin-left: 117px;
+    margin-top: 2px;
+}
